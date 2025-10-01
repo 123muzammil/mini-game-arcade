@@ -24,7 +24,7 @@ Welcome to the **Mini Game Arcade** — a fun Streamlit app with 10+ mini games 
 
 1️⃣ Clone the repo  
 bash
-git clone https://github.com/YOUR_USERNAME/mini-game-arcade.git
+git clone https://github.com/Muhammad_Muzammil_Arain/mini-game-arcade.git
 cd mini-game-arcade
 
 2️⃣ Install dependencies
@@ -47,7 +47,6 @@ Muzammil Arain
 
 ### 🔢 Guess the Number  
 ![Guess the Number](images/guess_number.png)  
-
 
 License:This project is open-source under the MIT License.
 ---
