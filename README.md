@@ -4,7 +4,7 @@ Welcome to the **Mini Game Arcade** — a fun Streamlit app with 10+ mini games 
 
 ---
 
-## ✨ Features  
+ ##✨Features  
 - Rock Paper Scissors ✊✋✌  
 - Guess the Number 🔢  
 - Word Scramble 🔤  
@@ -36,17 +36,6 @@ streamlit run app.py
 🧑‍💻 Author
 Muzammil Arain
 🎓 Telecom Engineering Student | 💻 Learning Python & Web Dev | 🚀 Exploring AI & IoT
-
-## 📸 Screenshots  
-
-### 🎮 Main Menu  
-![Main Menu](images/main_menu.png)  
-
-### ✊ Rock Paper Scissors  
-![Rock Paper Scissors](images/rock_paper.png)  
-
-### 🔢 Guess the Number  
-![Guess the Number](images/guess_number.png)  
 
 License:This project is open-source under the MIT License.
 ---
